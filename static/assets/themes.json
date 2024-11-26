@@ -1,0 +1,22 @@
+[
+    {
+        "name": "grey",
+        "url": "/assets/themes/grey.css"
+    },
+    {
+        "name": "mocha",
+        "url": "/assets/themes/mocha.css"
+    },
+    {
+        "name": "macchiato",
+        "url": "/assets/themes/macchiato.css"
+    },
+    {
+        "name": "frappe",
+        "url": "/assets/themes/frappe.css"
+    },
+    {
+        "name": "cappuccino",
+        "url": "/assets/themes/cappuccino.css"
+    }
+]
